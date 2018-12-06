@@ -1,0 +1,8 @@
+data_prestage_{prjShNm}\.;data_prestage.
+data_stage_{prjShNm}\.tmp_;data_stage_tmp.
+data_stage_{prjShNm}\.;data_stage.
+data_poststage_{prjShNm}\.;data_poststage.
+dwkb_{prjShNm}\.aux_;dwkb_aux.
+dwkb_{prjShNm}\.err_;dwkb_errors.
+dwkb_{prjShNm}\.;dwkb.
+-- exec;exec
